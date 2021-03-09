@@ -1,0 +1,17 @@
+body{
+    background: url(rose-3407234__340.webp) no-repeat center center fixed;
+    background-size: cover;
+}
+.amazing{
+    color:#fff;
+    margin-top: 20%;
+    text-align:center;
+    font-size:40px;
+    letter-spacing: 0.5em;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.lovecard{
+    height:150px;
+    width:150px;
+}
+@
