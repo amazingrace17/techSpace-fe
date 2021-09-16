@@ -28,7 +28,7 @@ const Auth = () => {
 
         const {  username, password, phoneNumber, avatarURL, fullName } = form;
                 console.log(form)
-        const URL = 'https://techspace1.herokuapp.com/';
+        const URL = 'https://techspace1.herokuapp.com/auth';
        
 
         const { data: { token, userId, hashedPassword } } = await axios.post(`${URL}/${isSignup ? 'signup' : 'login'}`, {

@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://techspace1.herokuapp.com/"
+  "proxy": "https://techspace1.herokuapp.com/auth/"
 }
